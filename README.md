@@ -25,5 +25,7 @@
     <a href="https://www.linkedin.com/in/jamily-yasmin-1a623121b/" target="_blank">Conecte-se Comigo!</a>
     <br>
     <br>
-      <a href="https://www.linkedin.com/in/jamily-yasmin-1a623121b/" target="_blank"><img align="center" alt="Mily-CSS" margin-top: 3em; height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" ></a>
+       <a href="https://www.linkedin.com/in/jamily-yasmin-1a623121b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+     ![Snake animation](https://github.com/Jamilyasbarb/Jamilyasbarb/blob/output/github-contribution-grid-snake.svg)
   </div>
