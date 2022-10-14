@@ -1,8 +1,8 @@
 ## Hiii, my name is Jamily Yasmin! Welcome to my git hub🐼
 
 - 📚 I'm taking a technical course on Systems Development at Senai Santos Dumont and attending high school
-- 👩🏽‍💻 I am currently studying Java and JavaScript
-- 🚀 I'm learning HTML CSS 
+- 👩🏽‍💻 I am currently studying Angular
+- 🚀 I'm learning Flutter 
 - 🧡 I love dancing, listening to music, watching drama and anime
 <div>
   <p align="right"> 👀 </p>
