@@ -1,6 +1,6 @@
 ## Hiii, my name is Jamily Yasmin! Welcome to my git hub🐼
 
-- 📚 I'm taking a technical course on Systems Development at Senai Santos Dumont and attending high school
+- 📚 I'm taking a technical course on Systems Development at Senai Santos Dumont 
 - 👩🏽‍💻 I am currently studying Angular
 - 🚀 I'm learning Flutter 
 - 🧡 I love dancing, listening to music, watching drama and anime
