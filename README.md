@@ -1,9 +1,8 @@
 ## Hiii, my name is Jamily Yasmin! Welcome to my git hub🐼
 
-- 📚 I'm taking a technical course on Systems Development at Senai Santos Dumont 
-- 👩🏽‍💻 I am currently studying Angular
-- 🚀 I'm learning Flutter 
-- 🧡 I love dancing, listening to music, watching drama and anime
+- 📚 I completed my Technical course in Systems Development 
+- 👩🏽‍💻 I'm currently delving into Java and Spring Boot
+- 🧡 I love dancing, listening to music and cooking
 <div>
   <p align="right"> 👀 </p>
   <p align="right">   <img alingn="center" src="https://profile-counter.glitch.me/Jamilyasbarb/count.svg" /></p>
