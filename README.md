@@ -1,4 +1,4 @@
-## Hiii, my name is Jamily Yasmin! Welcome to my git hub🐼
+## Hiii, Welcome to my git hub🐼
 
 - 📚 I completed my Technical course in Systems Development 
 - 👩🏽‍💻 I'm currently delving into Java and Spring Boot
