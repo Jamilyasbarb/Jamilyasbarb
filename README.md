@@ -1,4 +1,4 @@
-## Hiii, Welcome to my git hub🐼
+## Hello, Welcome to my git hub
 
 - 📚 I completed my Technical course in Systems Development 
 - 👩🏽‍💻 I'm currently delving into Java and Spring Boot
