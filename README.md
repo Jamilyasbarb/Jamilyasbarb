@@ -23,7 +23,8 @@
     <img align="center" alt="Mily-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
     <img align="center" alt="Mily-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
     <img align="center" alt="Mily-dart" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg"/>
-    <img align="center" alt="Mily-CSS" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Mily-CSS" height="70" width="90" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
+<!--   <img align="center" alt="Mily-CSS" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> -->
 <!--     <img align="right" height="150" alt="Mily-gif" src="https://i.picasion.com/pic92/e9ceb727032a4692505189624e0eec93.gif"> -->
   </div>
   
