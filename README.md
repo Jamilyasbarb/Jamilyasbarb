@@ -1,7 +1,7 @@
 ## Hello, Welcome to my git hub
-- 📖 I'm currently pursuing a Bachelor's degree in Computer Science and delving into Java and Spring Boot.
-- 📚 I completed my Technical course in Systems Development 
-- 🧡 I love dancing, listening to music and cooking
+📖 I'm currently pursuing a Bachelor's degree in Computer Science and delving into Java and Spring Boot.
+📚 I completed my Technical course in Systems Development 
+🧡 I love dancing, listening to music and cooking
   
 <!-- <div>-->
 <!--   <p align="right"> 👀 </p> -->
